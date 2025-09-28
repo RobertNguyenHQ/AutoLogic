@@ -1,7 +1,4 @@
 {
-  "version": "1.0",
-  "timestamp": "2025-09-27T03:40:45.220Z",
-  "presetName": "Sumraid",
   "layers": [
     {
       "enabled": true,
@@ -121,8 +118,8 @@
       "condition": {}
     },
     {
-      "enabled": true,
-      "dependPrev": false,
+      "enabled": false,
+      "dependPrev": true,
       "type": "Stats",
       "status": "",
       "statusState": "",
@@ -264,5 +261,8 @@
       "customSkillName": "",
       "condition": {}
     }
-  ]
+  ],
+  "presets": {},
+  "version": "1.0",
+  "timestamp": "2025-09-28T13:15:04.630Z"
 }
