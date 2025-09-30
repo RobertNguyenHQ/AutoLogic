@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "timestamp": "2025-09-29T15:24:56.492Z",
+  "timestamp": "2025-09-30T09:07:24.839Z",
   "presetName": "Deity Dungeon v2",
   "layers": [
     {
@@ -225,17 +225,17 @@
       "statValue": 0,
       "team": "Enemies",
       "teamComparison": ">",
-      "teamValue": 1,
+      "teamValue": 3,
       "action": "SkillName",
       "skillSlot": 0,
-      "skillName": "Verse III",
+      "skillName": "Mage's Pavane",
       "itemName": "",
       "elseAction": "SkillName",
       "elseSkillSlot": 0,
       "elseSkillName": "Wyrm's Song",
       "elseItemName": "",
       "statusSearch": "",
-      "skillSearch": "ver",
+      "skillSearch": "mage",
       "itemSearch": "",
       "elseSkillSearch": "song",
       "elseItemSearch": "",
