@@ -1,4 +1,7 @@
 {
+  "version": "1.0",
+  "timestamp": "2025-10-13T03:04:26.149Z",
+  "presetName": "Orna",
   "layers": [
     {
       "enabled": true,
@@ -267,7 +270,8 @@
       "elseItemSearch": "",
       "showJsonEdit": false,
       "editJson": "",
-      "customSkillName": ""
+      "customSkillName": "",
+      "condition": {}
     },
     {
       "enabled": true,
@@ -436,8 +440,5 @@
       "customSkillName": "",
       "condition": {}
     }
-  ],
-  "presets": {},
-  "version": "1.0",
-  "timestamp": "2025-10-13T03:03:23.120Z"
+  ]
 }
