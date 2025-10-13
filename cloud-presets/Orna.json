@@ -64,7 +64,7 @@
       "type": "Stats",
       "status": "",
       "statusState": "",
-      "stat": "WardFactors",
+      "stat": "wardFactor",
       "comparison": "<",
       "statValue": 85,
       "team": "",
@@ -439,5 +439,5 @@
   ],
   "presets": {},
   "version": "1.0",
-  "timestamp": "2025-10-13T03:00:57.503Z"
+  "timestamp": "2025-10-13T03:03:23.120Z"
 }
